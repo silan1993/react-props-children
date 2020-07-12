@@ -76,19 +76,28 @@ mantainable managbel and reusabel piece of html code
 Contains
 ---------------
 Basics of react
+
 Debugging
+ 
 Styling Component
+
 Component deep Dive
+
 Http Request
+
 Routing
+
 Forms and Validation
+
 Redux
 
 
-dependecies
-
--------------
+Dependecies
+----------------
 NPM
+
 bundler:- write moduler code and each module  to be passed to other file and then whole code will be bundled into couple of files.Browser may not support mupltiple files
-Webpack: -applied to bundle and also allows couple of bulid steps before bubling
+
+Webpack: -applied to bundle and also allows couple of bulid steps before bundlingßß
+
 babel:- convert these js code to browser comptable code
